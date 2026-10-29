@@ -6,7 +6,10 @@
     "AUDIO": "Y",
     "LANGUAGE": "Thai",
     "REGION": "en-US",
-    "KEYBOARD": "th-TH"
+    "KEYBOARD": "th-TH",
+    "SAMBA": "Y",
+    "SHORTCUT": "Y",
+    "SHUTDOWN": "Y"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
